@@ -10,12 +10,32 @@
 
 ![imagen](https://user-images.githubusercontent.com/93798427/148665266-68b05c0c-0623-495c-b0cd-324916e3d47f.png)
 
+**5. Evalúe cada uno de los determinantes:**
+
+![image](https://user-images.githubusercontent.com/93739242/148868982-6d7b3868-c176-43d0-91c5-387a007547c1.png)
+
+a)
+
+<img src="https://latex.codecogs.com/svg.image?\\[10pt][(25)(12)(-16)&plus;(0)(5)(-8)&plus;(-20)(10)(30)]-[(-8)(12)(-20)&plus;(30)(5)(25)&plus;(-16)(10)(0)]\\[10pt][(-4800)&plus;0&plus;(-6000)]-[(1920)&plus;(3750)]=-16470" title="\\[10pt][(25)(12)(-16)+(0)(5)(-8)+(-20)(10)(30)]-[(-8)(12)(-20)+(30)(5)(25)+(-16)(10)(0)]\\[10pt][(-4800)+0+(-6000)]-[(1920)+(3750)]=-16470" />
+
+b)
+
+<img src="https://latex.codecogs.com/svg.image?\\[10pt][(1.08)(2.12)(-1.05)&plus;(1.75)(-0.98)(1)&plus;(0.55)(0)(3.49)]-[(1)(2.12)(0.55)&plus;(3.49)(-0.98)(1.08)&plus;(-1.05)(0)(1.75)]\\[10pt][(-2.40)&plus;(-1.715)&plus;0]-[(1.16)&plus;(-3.69)&plus;(0)]=-1.59" title="\\[10pt][(1.08)(2.12)(-1.05)+(1.75)(-0.98)(1)+(0.55)(0)(3.49)]-[(1)(2.12)(0.55)+(3.49)(-0.98)(1.08)+(-1.05)(0)(1.75)]\\[10pt][(-2.40)+(-1.715)+0]-[(1.16)+(-3.69)+(0)]=-1.59" />
+
+
 **9. Resuelva las dos ecuaciones simultáneas del problema 1 con su calculadora.**
 
 
 ![imagen](https://user-images.githubusercontent.com/93798427/148665330-a0d7daaf-c527-4b41-8947-f1e6d1b39287.png)
 
 ![imagen](https://user-images.githubusercontent.com/93798427/148665335-4d54659a-d35d-497f-b2a5-4ca2785914fe.png)
+
+
+**11. Escriba la ecuación de la corriente de Kirchhoff para la asignación de corriente mostrada en el nodo A en la figura 9-26.**
+
+![image](https://user-images.githubusercontent.com/93739242/148869116-5f27c0b0-32f5-46db-95f7-ca4d00a67548.png)
+
+<img src="https://latex.codecogs.com/svg.image?\\[10pt]I_{1}=I_{2}&plus;I_{3}\\[10pt]I_{1}-I_{2}-I_{3}=0&space;" title="\\[10pt]I_{1}=I_{2}+I_{3}\\[10pt]I_{1}-I_{2}-I_{3}=0 " />
 
 **15. En la figura 9-27, determine el voltaje entre las terminales de la fuente de corriente (puntos A y B).**
 
@@ -28,6 +48,17 @@
 ![imagen](https://user-images.githubusercontent.com/93798427/148700584-21c0465c-6784-4438-a08f-76c156a67011.png)
 
 ![imagen](https://user-images.githubusercontent.com/93798427/148700623-16f49e8f-96f8-4fd6-b61f-5ce01a4586eb.png)
+
+**17. Con el método de la corriente en lazos, determine las corrientes en los lazos que aparecen en la figura 9-28.**
+
+![image](https://user-images.githubusercontent.com/93739242/148869152-f18a4e23-cb1d-4b3f-9fe8-d06e40313fbe.png)
+
+![image](https://user-images.githubusercontent.com/93739242/148869161-455d7d33-1ff4-4084-98b3-cb161f96e492.png)
+
+<img src="https://latex.codecogs.com/svg.image?\\[10pt]2&plus;1000I_{A}&plus;560(I_{A}-I_{B})&plus;4=0&space;\\[10pt]1000I_{A}&plus;560I_{A}-560I_{B}&plus;6=0&space;\\[10pt]1560I_{A}-560I_{B}=-6&space;\\[10pt]-4&plus;560(I_{B}-I_{A})&plus;820I_{B}&plus;6=0&space;\\[10pt]560I_{B}-560I_{A}&plus;820I_{B}&plus;2=0&space;\\[10pt]-560I_{A}&plus;1380I_{B}=-2&space;\\[10pt]&space;" title="\\[10pt]2+1000I_{A}+560(I_{A}-I_{B})+4=0 \\[10pt]1000I_{A}+560I_{A}-560I_{B}+6=0 \\[10pt]1560I_{A}-560I_{B}=-6 \\[10pt]-4+560(I_{B}-I_{A})+820I_{B}+6=0 \\[10pt]560I_{B}-560I_{A}+820I_{B}+2=0 \\[10pt]-560I_{A}+1380I_{B}=-2 \\[10pt] " />
+
+<img src="https://latex.codecogs.com/svg.image?\\[10pt]I_{A}=-5.11*10^{-3}A&space;\to&space;-5.11&space;mA\\[10PT]I_{B}=-3.52*10^{-3}A&space;\to&space;-3.52mA&space;" title="\\[10pt]I_{A}=-5.11*10^{-3}A \to -5.11 mA\\[10PT]I_{B}=-3.52*10^{-3}A \to -3.52mA " />
+
 
 
 **21. Resuelva para las corrientes de lazo en la figura 9-29 con su calculadora.**
@@ -53,6 +84,24 @@
 
 ![imagen](https://user-images.githubusercontent.com/93798427/148665552-858581d3-3b0d-4f10-b5f0-3b96baf87e35.png)
 
+**23. Determine el voltaje entre las terminales del puente abierto, A y B, en la figura 9-30.**
+
+![image](https://user-images.githubusercontent.com/93739242/148869259-ff87a3a9-3a11-4877-816c-474621692ab1.png)
+
+![image](https://user-images.githubusercontent.com/93739242/148869267-95b12fc1-1c0b-4916-abe1-3ae3582e6835.png)
+
+<img src="https://latex.codecogs.com/svg.image?\\[10pt]-8&plus;10I_{1}&plus;4.7(I_{1}-I_{2})&plus;2.2(I_{1}-I_{2})=0&space;\\[10pt]&space;10I_{1}&plus;4.7I_{1}&plus;2.2I_{1}-4.7I_{2}-2.2I_{2}=8&space;\\[10pt]16.9I_{1}-6.9I_{2}=8&space;" title="\\[10pt]-8+10I_{1}+4.7(I_{1}-I_{2})+2.2(I_{1}-I_{2})=0 \\[10pt] 10I_{1}+4.7I_{1}+2.2I_{1}-4.7I_{2}-2.2I_{2}=8 \\[10pt]16.9I_{1}-6.9I_{2}=8 " />
+
+<img src="https://latex.codecogs.com/svg.image?\\[10pt]8.2I_{2}&plus;3.9I_{2}&plus;2.2(I_{2}-I_{1})&plus;4.7(I_{2}-I_{1})=0&space;\\[10pt]8.2I_{2}&plus;3.9I_{2}&plus;2.2I_{2}-2.2I_{1}&plus;4.7I_{2}-4.7I_{1}=0\\[10pt]-6.9I_{1}&plus;19I_{2}=0&space;" title="\\[10pt]8.2I_{2}+3.9I_{2}+2.2(I_{2}-I_{1})+4.7(I_{2}-I_{1})=0 \\[10pt]8.2I_{2}+3.9I_{2}+2.2I_{2}-2.2I_{1}+4.7I_{2}-4.7I_{1}=0\\[10pt]-6.9I_{1}+19I_{2}=0 " />
+
+<img src="https://latex.codecogs.com/svg.image?\\[10pt]I_{1}=0.55&space;A&space;\\[10pt]I_{2}=0.2&space;A&space;" title="\\[10pt]I_{1}=0.55 A \\[10pt]I_{2}=0.2 A " />
+
+<img src="https://latex.codecogs.com/svg.image?\\[10pt]-V_{A}&plus;2.2(I_{1}-I_{2})=0&space;\\[10pt]V_{A}=2.2(0.55-0.2)&space;\\[10pt]V_{A}=0.77V&space;" title="\\[10pt]-V_{A}+2.2(I_{1}-I_{2})=0 \\[10pt]V_{A}=2.2(0.55-0.2) \\[10pt]V_{A}=0.77V " />
+
+<img src="https://latex.codecogs.com/svg.image?\\[10pt]-V_{B}&plus;3.9I_{2}=0&space;\\[10pt]V_{B}=3.9(0.2)&space;\\[10pt]V_{B}=0.78V&space;" title="\\[10pt]-V_{B}+3.9I_{2}=0 \\[10pt]V_{B}=3.9(0.2) \\[10pt]V_{B}=0.78V " />
+
+<img src="https://latex.codecogs.com/svg.image?\\[10pt]V_{AB}=V_{A}-V_{B}&space;\\[10pt]=0.77-0.78&space;\\[10pt]V_{AB}=-0.01V&space;\to&space;-11.2mA&space;" title="\\[10pt]V_{AB}=V_{A}-V_{B} \\[10pt]=0.77-0.78 \\[10pt]V_{AB}=-0.01V \to -11.2mA " />
+
 
 **27. ¿Cuáles son los valores de corriente de rama en la figura 9-32? En cada rama, muestre la dirección real
 de la corriente. **
@@ -67,6 +116,19 @@ de la corriente. **
 
 ![imagen](https://user-images.githubusercontent.com/93798427/148665635-b54e5131-8205-45ec-bb63-fd5125dfb41d.png)
 
+**29. Use el análisis de nodos para determinar el voltaje en los puntos A y B con respecto a tierra en la figura 9-33.**
+
+![image](https://user-images.githubusercontent.com/93739242/148869309-0f24c760-ac32-4196-9448-406702b9f027.png)
+
+![image](https://user-images.githubusercontent.com/93739242/148869324-d81d8c85-6dd8-48b7-a32d-dc3be73bf2cb.png)
+
+<img src="https://latex.codecogs.com/svg.image?\begin{aligned}&\frac{V_{A}-9}{56&space;\mathrm{k}}&plus;\frac{V_{A}}{27&space;\mathrm{k}}&plus;\frac{V_{A}-V_{B}}{91&space;\mathrm{k}}=0&space;\\[10pt]&\frac{2457\left(V_{A}-9\right)&plus;5096&space;V_{A}&plus;1512\left(V_{A}-V_{B}\right)}{137592&space;\mathrm{k}}=0&space;\\[10pt]&2457\left(V_{A}-9\right)&plus;5096&space;V_{A}&plus;1512\left(V_{A}-V_{B}\right)=0&space;\\[10pt]&2457&space;V_{A}-22113&plus;5096&space;V_{A}&plus;1512&space;V_{A}-1512&space;V_{B}=0&space;\\[10pt]&9065&space;V_{A}-1512&space;V_{B}=22113&space;\ldots&space;\ldots&space;\text&space;{&space;(1)&space;}\end{aligned}" title="\begin{aligned}&\frac{V_{A}-9}{56 \mathrm{k}}+\frac{V_{A}}{27 \mathrm{k}}+\frac{V_{A}-V_{B}}{91 \mathrm{k}}=0 \\[10pt]&\frac{2457\left(V_{A}-9\right)+5096 V_{A}+1512\left(V_{A}-V_{B}\right)}{137592 \mathrm{k}}=0 \\[10pt]&2457\left(V_{A}-9\right)+5096 V_{A}+1512\left(V_{A}-V_{B}\right)=0 \\[10pt]&2457 V_{A}-22113+5096 V_{A}+1512 V_{A}-1512 V_{B}=0 \\[10pt]&9065 V_{A}-1512 V_{B}=22113 \ldots \ldots \text { (1) }\end{aligned}" />
+
+<img src="https://latex.codecogs.com/svg.image?\begin{aligned}&\frac{V_{B}-V_{A}}{91&space;\mathrm{k}}&plus;\frac{V_{B}&plus;4.5}{33&space;\mathrm{k}}&plus;\frac{V_{B}&plus;15}{82&space;\mathrm{k}}=0&space;\\[10pt]&\frac{2706\left(V_{B}-V_{A}\right)&plus;7462\left(V_{B}&plus;4.5\right)&plus;3003\left(V_{B}&plus;15\right)}{246246&space;\mathrm{k}}=0&space;\\[10pt]&2706\left(V_{B}-V_{A}\right)&plus;7462\left(V_{B}&plus;4.5\right)&plus;3003\left(V_{B}&plus;15\right)=0&space;\\[10pt]&2706&space;V_{B}-2706&space;V_{A}&plus;7462&space;V_{B}&plus;33579&plus;3003&space;V_{B}&plus;45045=0&space;\\[10pt]&-2706&space;V_{A}&plus;13171&space;V_{B}=-78624&space;\ldots&space;\ldots&space;\text&space;{&space;(2)&space;}\end{aligned}" title="\begin{aligned}&\frac{V_{B}-V_{A}}{91 \mathrm{k}}+\frac{V_{B}+4.5}{33 \mathrm{k}}+\frac{V_{B}+15}{82 \mathrm{k}}=0 \\[10pt]&\frac{2706\left(V_{B}-V_{A}\right)+7462\left(V_{B}+4.5\right)+3003\left(V_{B}+15\right)}{246246 \mathrm{k}}=0 \\[10pt]&2706\left(V_{B}-V_{A}\right)+7462\left(V_{B}+4.5\right)+3003\left(V_{B}+15\right)=0 \\[10pt]&2706 V_{B}-2706 V_{A}+7462 V_{B}+33579+3003 V_{B}+45045=0 \\[10pt]&-2706 V_{A}+13171 V_{B}=-78624 \ldots \ldots \text { (2) }\end{aligned}" />
+
+<img src="https://latex.codecogs.com/svg.image?\begin{aligned}&13171V_{B}=-78624&plus;2706V_{A}\\[10pt]&V_{B}=-\frac{78624}{13171}&plus;\frac{2706}{13171}V_{A}\\[10pt]&9065V_{A}-1512[-5.942&plus;0.205V_{A}]=22113&space;\\[10pt]&9065V_{A}&plus;8984.3-309.9=22113&space;\\[10pt]&9065V_{A}=13438.6&space;\to&space;1.482&space;V\end{aligned}" title="\begin{aligned}&13171V_{B}=-78624+2706V_{A}\\[10pt]&V_{B}=-\frac{78624}{13171}+\frac{2706}{13171}V_{A}\\[10pt]&9065V_{A}-1512[-5.942+0.205V_{A}]=22113 \\[10pt]&9065V_{A}+8984.3-309.9=22113 \\[10pt]&9065V_{A}=13438.6 \to 1.482 V\end{aligned}" />
+<img src="https://latex.codecogs.com/svg.image?\begin{aligned}&V_{B}=-5.942&plus;0.205(1.482)&space;\\[10pt]&=-5.942&plus;0.30381&space;\\[10pt]&=-5.63V\end{aligned}" title="\begin{aligned}&V_{B}=-5.942+0.205(1.482) \\[10pt]&=-5.942+0.30381 \\[10pt]&=-5.63V\end{aligned}" />
+
 
 # Capitulo 10 
 
@@ -75,22 +137,63 @@ de sección transversal mide 150 cm2?**
 
 ![imagen](https://user-images.githubusercontent.com/93798427/148665676-eea4e31d-5185-4f0f-ada5-cbbc4dfbebd7.png)
 
+**5. Un imán permanente muy fuerte tiene un campo magnético de 100,000 mT. Exprese esta densidad de flujo en gauss.**
+
+B(Gauss)=(Campo Magnetico) <img src="https://latex.codecogs.com/svg.image?[\frac{10^{4}G}{1T}]" title="[\frac{10^{4}G}{1T}]" />
+
+B=(100000mT) <img src="https://latex.codecogs.com/svg.image?[\frac{10^{4}G}{1T}]" title="[\frac{10^{4}G}{1T}]" />
+
+B=1000G
+
 
 **9. ¿Cuál es la fuerza magnetomotriz en una bobina de 50 vueltas de hilo cuando hay 3 A de corriente a
 través de él?**
 
 ![imagen](https://user-images.githubusercontent.com/93798427/148665690-19476f9d-cded-4455-9402-3e64e1a12547.png)
 
+**11. (a) ¿Qué fuerza mueve el émbolo de imán cuando se activa un solenoide?** 
+
+La fuerza del campo electromagnético mueve el émbolo cuando se activa un solenoide.
+
+**(b) ¿Qué fuerza hace que el émbolo de imán regrese a su posición de reposo?**
+
+La fuerza del resorte hace que el embolo vuelva a su posición de reposo
+
+
 **15. ¿Cómo se puede cambiar la densidad de flujo en la figura 10-44 sin alterar las características físicas del
 núcleo?**
 
 ![imagen](https://user-images.githubusercontent.com/93798427/148665707-a7110735-7b61-4358-9afb-fd54d05d01d3.png)
 
-
-
 Mediante un cambio en la corriente 
+
+**17. Determine a partir de las curvas de histéresis mostradas en la figura 10-45 qué material tiene más retentividad**
+
+![image](https://user-images.githubusercontent.com/93739242/148869543-ffc8dfb3-a250-4004-8232-ca2ce69c7ee8.png)
+
+
+La capacidad del material para mantener un estado magnetizado sin intensidad de campo magnético se llama retención. La retentividad del material representa el flujo máximo que puede ser retenido después de que el material se ha desmagnetizado hasta la saturación.
+
+Para el material A  BR es casi igual a Bsat y por lo tanto la retentividad es una.
+
+Para el material B BR es menor que Bsat y por lo tanto la retentividad es menor que uno.
+
+Para el material C BR es mucho menor que Bsat y por lo tanto, la retentividad es mucho menor que uno.
+
+Por lo tanto, el material que tiene mayor retentividad es MATERIAL A
+
 
 **21. ¿Cómo complementa la ley de Lenz a la ley de Faraday?**
 
 La ley de lenz nos explica o define la polaridad del voltaje que se induce 
+
+**23. Explique el propósito del conmutador y de las escobillas en la figura 10-35.**
+
+![image](https://user-images.githubusercontent.com/93739242/148869569-920ea638-15c1-459c-bcac-0142c376535e.png)
+
+La figura muestra un generador de corriente directa que consta de un solo bucle de cable en un campo magnético permanente. Cada extremo del bucle de alambre está conectado a una disposición de anillo dividido. Este anillo conmutador dividido también gira. Cada mitad del anillo partido se frota contra los contactos fijos, llamados cepillos, y conecta el bucle de alambre a un circuito externo.
+
+Según la ley de Faraday, cuando un cable se mueve a través de un campo magnético, se induce un voltaje y la cantidad de voltaje inducido es proporcional al número de vueltas en el cable y la velocidad a la que se mueve con respecto al campo magnético. Este voltaje inducido se alterna y se debe a la acción del conmutador y los cepillos se convierten en unidireccional en el circuito externo.
+
+Por lo tanto, el propósito del conmutador y los cepillos es hacer que el voltaje inducido sea unidireccional o conecte eléctricamente la espira en el circuito externo.
 
