@@ -4,11 +4,10 @@
 
 **Objetivos Específicos**
 
-
 -Analizar los métodos que existen para resolver ecuaciones 
 
 - Analizar y aplicar el método de ramas para poder resolver los circuitos planteados
-- 
+
 -Utilizar el método de nodos y lazos con la finalidad de encontrar los valores que nos pide el ejercicio 
 
 -Comprender como resolver determinantes para poder calcular las corrientes.
