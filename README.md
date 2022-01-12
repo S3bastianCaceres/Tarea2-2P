@@ -151,6 +151,10 @@ de la corriente. **
 
 # Capitulo 10 
 
+**1. El área de sección transversal de un campo magnético se incrementa, pero el flujo no cambia. ¿La densidad de flujo aumenta o disminuye?**
+
+Disminuye
+
 **3. ¿Cuál es el flujo en un material magnético cuando la densidad de flujo es de 2500  106 T y el área
 de sección transversal mide 150 cm2?**
 
@@ -170,6 +174,20 @@ través de él?**
 
 ![imagen](https://user-images.githubusercontent.com/93798427/148665690-19476f9d-cded-4455-9402-3e64e1a12547.png)
 
+
+**7. ¿Cuál es la permeabilidad relativa de un material ferromagnético cuya permeabilidad absoluta es de 750 x 10^6 Wb/At·m?**
+
+**Datos**
+
+<img src="https://latex.codecogs.com/svg.image?\mu&space;=750\times&space;10^{-6}Wb/Atm" title="\mu =750\times 10^{-6}Wb/Atm" />
+
+<img src="https://latex.codecogs.com/svg.image?\mu&space;_{0}=4\pi&space;\times&space;10^{-7}Wb/Atm" title="\mu _{0}=4\pi \times 10^{-7}Wb/Atm" />
+
+**Solucion**
+
+<img src="https://latex.codecogs.com/svg.image?\mu&space;_{0}=\frac{\mu&space;}{\mu_{0}}=\frac{750\times&space;10^{-6}}{4\pi&space;\times&space;10^{-7}}=597.13" title="\mu _{0}=\frac{\mu }{\mu_{0}}=\frac{750\times 10^{-6}}{4\pi \times 10^{-7}}=597.13" />
+
+
 **11. (a) ¿Qué fuerza mueve el émbolo de imán cuando se activa un solenoide?** 
 
 La fuerza del campo electromagnético mueve el émbolo cuando se activa un solenoide.
@@ -185,6 +203,15 @@ núcleo?**
 ![imagen](https://user-images.githubusercontent.com/93798427/148665707-a7110735-7b61-4358-9afb-fd54d05d01d3.png)
 
 Mediante un cambio en la corriente 
+
+
+**13. ¿Qué ocasiona que la aguja instalada en un movimiento de d’Arsonval se deflexione cuando circula corriente a través de la bobina**
+
+[![figura-4.png](https://i.postimg.cc/Px7Qwp4K/figura-4.png)](https://postimg.cc/S2W90KHz)
+
+
+Fuerzas producidas por la interacción del capo electromagnetico y el campo magnetico permanente
+
 
 **17. Determine a partir de las curvas de histéresis mostradas en la figura 10-45 qué material tiene más retentividad**
 
@@ -202,6 +229,12 @@ Para el material C BR es mucho menor que Bsat y por lo tanto, la retentividad es
 Por lo tanto, el material que tiene mayor retentividad es MATERIAL A
 
 
+**19. ¿Cuáles son los tres factores que determinan el voltaje en un conductor que se mueve en dirección perpendicular al campo magnético?**
+
+
+La intensidad del campo mágnetico, la longitud del conductor expuesta al campo, y la velocidad de rotaxión del conductor
+
+
 **21. ¿Cómo complementa la ley de Lenz a la ley de Faraday?**
 
 La ley de lenz nos explica o define la polaridad del voltaje que se induce 
@@ -216,3 +249,7 @@ Según la ley de Faraday, cuando un cable se mueve a través de un campo magnét
 
 Por lo tanto, el propósito del conmutador y los cepillos es hacer que el voltaje inducido sea unidireccional o conecte eléctricamente la espira en el circuito externo.
 
+*** 25. Suponga que se agrega otra espira, a 90 grados de la primera, al generador de cd del problema 24. Trace una gráfica del voltaje contra el tiempo para mostrar cómo aparece el voltaje de salida. Sea de 10 V el voltaje máximo.**
+
+
+[![ej25.png](https://i.postimg.cc/cLsDY1J2/ej25.png)](https://postimg.cc/gnTqbW8H)
