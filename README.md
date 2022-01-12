@@ -1,6 +1,8 @@
 # Tarea2-2P
  
-# Objetivos 
+# OBJETIVOS # 
+
+**Objetivo General**
 
 **Objetivos Específicos**
 
@@ -20,7 +22,17 @@
 
 - Revisar conceptos como: campo magnético, lay de Faraday, ley de Lenz, electromagnetismo que serán útiles en la resolución de los ejercicios. 
 
-# Capitulo 9 #
+# MARCO TEORICO #
+
+**Capitulo 9**
+
+[![png-1.png](https://i.postimg.cc/jq6tvrg6/png-1.png)](https://postimg.cc/hhGkPNqh)
+
+**Capitulo 10**
+
+# EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS #
+
+**Capitulo 9**
 
 **3. Utilizando determinantes, resuelva el siguiente conjunto de ecuaciones para ambas corrientes:**
 ![imagen](https://user-images.githubusercontent.com/93798427/148665180-baea7084-bbcc-4c47-8909-9ea1b92f967d.png)
@@ -253,3 +265,9 @@ Por lo tanto, el propósito del conmutador y los cepillos es hacer que el voltaj
 
 
 [![ej25.png](https://i.postimg.cc/cLsDY1J2/ej25.png)](https://postimg.cc/gnTqbW8H)
+
+# VIDEO #
+
+# CONCLUSIONES #
+
+# BIBLIOGRAFIA #
