@@ -1,5 +1,25 @@
 # Tarea2-2P
  
+# Objetivos 
+
+**Objetivos Específicos**
+
+
+-Analizar los métodos que existen para resolver ecuaciones 
+
+- Analizar y aplicar el método de ramas para poder resolver los circuitos planteados
+- 
+-Utilizar el método de nodos y lazos con la finalidad de encontrar los valores que nos pide el ejercicio 
+
+-Comprender como resolver determinantes para poder calcular las corrientes.
+
+-Analizar y explicar los principios tanto del electromagnetismo como los del campo magnético 
+
+-Dibujar los circuitos simplificados de ser necesarios para su correcto entendimiento.
+
+-Describir y analizar el principio de inducción electromagnética tanto en la parte teórica como en la parte práctica. 
+
+-Revisar conceptos como: campo magnético, lay de Faraday, ley de Lenz, electromagnetismo que serán útiles en la resolución de los ejercicios. 
 
 # Capitulo 9 #
 
