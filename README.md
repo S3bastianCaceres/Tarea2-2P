@@ -34,6 +34,28 @@
 
 **Capitulo 9**
 
+**1. Con el método de sustitución, resuelva el siguiente conjunto de ecuaciones para IR1 e IR2**
+
+<img src="https://latex.codecogs.com/svg.image?1)100I_{1}&plus;50I_{2}=30\\2)75I_{1}&plus;90I{2}=15&space;" title="1)100I_{1}+50I_{2}=30\\2)75I_{1}+90I{2}=15 " />
+
+**Despejar  I1 en (1) y reemplazar en 2**
+
+(3) 
+
+<img src="https://latex.codecogs.com/svg.image?I_{1}=\frac{30-50I_{2}}{100}&space;" title="I_{1}=\frac{30-50I_{2}}{100} " />
+
+(3) en (2)
+
+<img src="https://latex.codecogs.com/svg.image?75\left&space;[&space;\frac{30-50I_{2}}{100}&space;&space;\right&space;]&plus;90I_{2}=15" title="75\left [ \frac{30-50I_{2}}{100} \right ]+90I_{2}=15" />
+
+<img src="https://latex.codecogs.com/svg.image?\frac{90}{4}-\frac{150I_{2}}{4}&plus;90I_{2}=15" title="\frac{90}{4}-\frac{150I_{2}}{4}+90I_{2}=15" />
+
+<img src="https://latex.codecogs.com/svg.image?I_{2}=-\frac{1}{7}A" title="I_{2}=-\frac{1}{7}A" />
+
+**Reemplazar I2 en 1**
+
+<img src="https://latex.codecogs.com/svg.image?100I_{1}&plus;50I_{2}=30\\100I_{1}=30&plus;50\left&space;(&space;\frac{1}{7}&space;\right&space;)\\I_{1}=0.34A&space;" title="100I_{1}+50I_{2}=30\\100I_{1}=30+50\left ( \frac{1}{7} \right )\\I_{1}=0.34A " />
+
 **3. Utilizando determinantes, resuelva el siguiente conjunto de ecuaciones para ambas corrientes:**
 ![imagen](https://user-images.githubusercontent.com/93798427/148665180-baea7084-bbcc-4c47-8909-9ea1b92f967d.png)
 
@@ -54,6 +76,39 @@ b)
 <img src="https://latex.codecogs.com/svg.image?\\[10pt][(1.08)(2.12)(-1.05)&plus;(1.75)(-0.98)(1)&plus;(0.55)(0)(3.49)]-[(1)(2.12)(0.55)&plus;(3.49)(-0.98)(1.08)&plus;(-1.05)(0)(1.75)]\\[10pt][(-2.40)&plus;(-1.715)&plus;0]-[(1.16)&plus;(-3.69)&plus;(0)]=-1.59" title="\\[10pt][(1.08)(2.12)(-1.05)+(1.75)(-0.98)(1)+(0.55)(0)(3.49)]-[(1)(2.12)(0.55)+(3.49)(-0.98)(1.08)+(-1.05)(0)(1.75)]\\[10pt][(-2.40)+(-1.715)+0]-[(1.16)+(-3.69)+(0)]=-1.59" />
 
 
+**7. Resuelva para I1, I2, I3 en el siguiente conjunto de ecuaciones con determinantes:**
+
+<img src="https://latex.codecogs.com/svg.image?1)2I_{1}-6I_{2}&plus;10I_{3}=9\\2)3I_{1}&plus;7I_{2}-8I_{3}=3\\3)10I_{1}&plus;5I_{2}-12I_{3}=0&space;" title="1)2I_{1}-6I_{2}+10I_{3}=9\\2)3I_{1}+7I_{2}-8I_{3}=3\\3)10I_{1}+5I_{2}-12I_{3}=0 " />
+
+**Determinante de delta**
+
+<img src="https://latex.codecogs.com/svg.image?Det(\Delta&space;)=\begin{vmatrix}&space;2&-6&space;&space;&&space;10&space;\\&space;3&&space;&space;7&&space;-8&space;\\&space;10&&space;&space;5&-12&space;&space;\\\end{vmatrix}=-374" title="Det(\Delta )=\begin{vmatrix} 2&-6 & 10 \\ 3& 7& -8 \\ 10& 5&-12 \\\end{vmatrix}=-374" />
+
+**Determinante de I1**
+
+<img src="https://latex.codecogs.com/svg.image?Det(I_{1})&space;=\begin{vmatrix}&space;9&&space;&space;-6&&space;&space;10\\3&space;&7&space;&space;&-8&space;&space;\\0&space;&&space;5&space;&-12&space;&space;\\\end{vmatrix}=-462" title="Det(I_{1}) =\begin{vmatrix} 9& -6& 10\\3 &7 &-8 \\0 & 5 &-12 \\\end{vmatrix}=-462" />
+
+**Determinante de I2**
+
+<img src="https://latex.codecogs.com/svg.image?Det(I_{2})&space;=\begin{vmatrix}&space;2&&space;&space;9&&space;&space;10\\3&space;&3&space;&space;&-8&space;&space;\\10&space;&&space;0&space;&-12&space;&space;\\\end{vmatrix}=-768" title="Det(I_{2}) =\begin{vmatrix} 2& 9& 10\\3 &3 &-8 \\10 & 0 &-12 \\\end{vmatrix}=-768" />
+
+**Determinante de I3**
+
+<img src="https://latex.codecogs.com/svg.image?Det(I_{3})&space;=\begin{vmatrix}&space;2&&space;&space;-6&&space;&space;10\\3&space;&7&space;&space;&-8&space;&space;\\10&space;&&space;5&space;&-12&space;&space;\\\end{vmatrix}=-705" title="Det(I_{3}) =\begin{vmatrix} 2& -6& 10\\3 &7 &-8 \\10 & 5 &-12 \\\end{vmatrix}=-705" />
+
+
+**Para I1**
+
+<img src="https://latex.codecogs.com/svg.image?I_{1}=\frac{Det(I_{1})}{\Delta&space;}=\frac{-462}{-374}=1.23A" title="I_{1}=\frac{Det(I_{1})}{\Delta }=\frac{-462}{-374}=1.23A" />
+
+**Para I2**
+
+<img src="https://latex.codecogs.com/svg.image?I_{2}=\frac{Det(I_{2})}{\Delta&space;}=\frac{-768}{-374}=2.05A" title="I_{2}=\frac{Det(I_{2})}{\Delta }=\frac{-768}{-374}=2.05A" />
+
+**Para I3**
+
+<img src="https://latex.codecogs.com/svg.image?I_{3}=\frac{Det(I_{3})}{\Delta&space;}=\frac{-705}{-374}=1.88A" title="I_{3}=\frac{Det(I_{3})}{\Delta }=\frac{-705}{-374}=1.88A" />
+
 **9. Resuelva las dos ecuaciones simultáneas del problema 1 con su calculadora.**
 
 
@@ -67,6 +122,32 @@ b)
 ![image](https://user-images.githubusercontent.com/93739242/148869116-5f27c0b0-32f5-46db-95f7-ca4d00a67548.png)
 
 <img src="https://latex.codecogs.com/svg.image?\\[10pt]I_{1}=I_{2}&plus;I_{3}\\[10pt]I_{1}-I_{2}-I_{3}=0&space;" title="\\[10pt]I_{1}=I_{2}+I_{3}\\[10pt]I_{1}-I_{2}-I_{3}=0 " />
+
+
+**13. Determine la caída de voltaje entre los extremos de cada resistor mostrado en la figura 9-26 e indique la polaridad real.**
+
+[![figura-1.png](https://i.postimg.cc/rybfdbZc/figura-1.png)](https://postimg.cc/0rYYFtqH)
+
+
+**Circuito con sus polaridades**
+
+[![figura-1-LI-2.jpg](https://i.postimg.cc/bwDSLJTd/figura-1-LI-2.jpg)](https://postimg.cc/XrWvYnt0)
+
+**Malla 1**
+
+<img src="https://latex.codecogs.com/svg.image?12=8.2(I_{1})&plus;10(I_{1}-I_{2})\\12=18.2I_{1}-10I_{2}&space;" title="12=8.2(I_{1})+10(I_{1}-I_{2})\\12=18.2I_{1}-10I_{2} " />
+
+**Malla 2**
+
+<img src="https://latex.codecogs.com/svg.image?-6=10(I_{2}-I_{1})&plus;5.6I_{2}\\-6=15.6I_{2}-10I_{1}&space;" title="-6=10(I_{2}-I_{1})+5.6I_{2}\\-6=15.6I_{2}-10I_{1} " />
+
+**Resolviendo el sistemna de ecuaciones**
+
+<img src="https://latex.codecogs.com/svg.image?I_{1}=0.69&space;A\\I_{2}=0.059&space;A&space;" title="I_{1}=0.69 A\\I_{2}=0.059 A " />
+
+**Cídas de voltaje**
+
+<img src="https://latex.codecogs.com/svg.image?V_{1}=8.2(0.69)=5.65V\\V_{2}=10(0.69-0.058)=6.32V\\V_{3}=5.6(0.058)=0.325V=325mV&space;" title="V_{1}=8.2(0.69)=5.65V\\V_{2}=10(0.69-0.058)=6.32V\\V_{3}=5.6(0.058)=0.325V=325mV " />
 
 **15. En la figura 9-27, determine el voltaje entre las terminales de la fuente de corriente (puntos A y B).**
 
@@ -90,6 +171,30 @@ b)
 
 <img src="https://latex.codecogs.com/svg.image?\\[10pt]I_{A}=-5.11*10^{-3}A&space;\to&space;-5.11&space;mA\\[10PT]I_{B}=-3.52*10^{-3}A&space;\to&space;-3.52mA&space;" title="\\[10pt]I_{A}=-5.11*10^{-3}A \to -5.11 mA\\[10PT]I_{B}=-3.52*10^{-3}A \to -3.52mA " />
 
+**19. Determine los voltajes y sus polaridades apropiadas en cada uno de los resistores mostrados en la figura 9-28.**
+
+
+[![figura-2.png](https://i.postimg.cc/L8FvDPMb/figura-2.png)](https://postimg.cc/CzJjLz5G)
+
+**Circuito con sus polaridades**
+
+[![figura-2-LI.jpg](https://i.postimg.cc/ZRZ9TLhy/figura-2-LI.jpg)](https://postimg.cc/kV1MsKGn)
+
+**Malla 1**
+
+<img src="https://latex.codecogs.com/svg.image?-4-2=1000I_{1}&plus;560(I_{1}-I_{2})\\-6=1560I_{1}-560I_{2}\\&space;" title="-4-2=1000I_{1}+560(I_{1}-I_{2})\\-6=1560I_{1}-560I_{2}\\ " />
+
+**Malla 2**
+
+<img src="https://latex.codecogs.com/svg.image?-6&plus;4=560(I_{2}-I_{1})&plus;820I_{2}\\-2=1380I_{2}-560&space;I_{1}" title="-6+4=560(I_{2}-I_{1})+820I_{2}\\-2=1380I_{2}-560 I_{1}" />
+
+**Resolviendo el sistema de ecuaciones**
+
+<img src="https://latex.codecogs.com/svg.image?I_{1}=-0.0051A\\I_{2}=0.0035A&space;" title="I_{1}=-0.0051A\\I_{2}=0.0035A " />
+
+**Cídas de voltaje**
+
+<img src="https://latex.codecogs.com/svg.image?V_{1}=5.1V\\V_{2}=2.87V\\V_{3}=560(0.0051-0.0035)=896mV&space;" title="V_{1}=5.1V\\V_{2}=2.87V\\V_{3}=560(0.0051-0.0035)=896mV " />
 
 
 **21. Resuelva para las corrientes de lazo en la figura 9-29 con su calculadora.**
@@ -147,6 +252,27 @@ de la corriente. **
 
 ![imagen](https://user-images.githubusercontent.com/93798427/148665635-b54e5131-8205-45ec-bb63-fd5125dfb41d.png)
 
+
+**25. Escriba las ecuaciones de lazo en la forma estándar para el circuito puente T mostrado en la figura 9-31**
+
+[![figura-3.png](https://i.postimg.cc/j52h2QzL/figura-3.png)](https://postimg.cc/YGcFyFDH)
+
+**MALLA DE LA CORRIENTE B**
+
+<img src="https://latex.codecogs.com/svg.image?15=3.3(I_{B}-I_{A})&plus;820(I_{B}-I_{C})\\15=4120I_{B}-3300I_{A}-820I_{C}" title="15=3.3(I_{B}-I_{A})+820(I_{B}-I_{C})\\15=4120I_{B}-3300I_{A}-820I_{C}" />
+
+
+**MALLA DE LA CORRIENTE C**
+
+<img src="https://latex.codecogs.com/svg.image?0=1500(I_{C}-I_{A})&plus;2200(I_{C})&plus;820(I_{C}-I_{B})\\0=4520I_{C}-1500I_{A}-820I_{B}&space;" title="0=1500(I_{C}-I_{A})+2200(I_{C})+820(I_{C}-I_{B})\\0=4520I_{C}-1500I_{A}-820I_{B} " />
+
+
+
+**MALLA DE LA CRRIENTE A**
+
+<img src="https://latex.codecogs.com/svg.image?0=680I_{A}&plus;1500(I_{A}-I_{C})&plus;3300(I_{A}-I_{B})\\0=5480I_{A}=-1500I_{C}-3300I_{B}&space;" title="0=680I_{A}+1500(I_{A}-I_{C})+3300(I_{A}-I_{B})\\0=5480I_{A}=-1500I_{C}-3300I_{B} " />
+
+
 **29. Use el análisis de nodos para determinar el voltaje en los puntos A y B con respecto a tierra en la figura 9-33.**
 
 ![image](https://user-images.githubusercontent.com/93739242/148869309-0f24c760-ac32-4196-9448-406702b9f027.png)
@@ -167,7 +293,7 @@ de la corriente. **
 
 Disminuye
 
-**3. ¿Cuál es el flujo en un material magnético cuando la densidad de flujo es de 2500  106 T y el área
+**3. ¿Cuál es el flujo en un material magnético cuando la densidad de flujo es de 2500  106 T y el área
 de sección transversal mide 150 cm2?**
 
 ![imagen](https://user-images.githubusercontent.com/93798427/148665676-eea4e31d-5185-4f0f-ada5-cbbc4dfbebd7.png)
