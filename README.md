@@ -403,6 +403,8 @@ Por lo tanto, el propósito del conmutador y los cepillos es hacer que el voltaj
 
 # VIDEO #
 
+https://youtu.be/jTe9_ku-v58
+
 # CONCLUSIONES #
 
 - Gracias a la aplicación de determinantes para la resolución del sistema de ecuaciones nos permite tener mayor conocimiento para aplicarlo en los diferentes ejercicios, aunque si resulta un poco más extenso que resolver por un método más conocido como podría ser el de sustitución, igualación o por suma y resta.
@@ -412,3 +414,9 @@ Por lo tanto, el propósito del conmutador y los cepillos es hacer que el voltaj
 - Nos deja claro que existe una relación entre el magnetismo y la electricidad debido a que los electrones se mueven dentro del átomo y este se orienta en una dirección produciendo asi el magnetismo.
 
 # BIBLIOGRAFIA #
+
+- Floyd, T. L. (2007). Principios de circuitos eléctricos. (8.ª ed.). México: PEARSON EDUCACIÓN.
+- Edminister, J. A. (1988). Circuitos eléctricos. McGraw-Hill.
+- Nodos, lazos, ramas y corto circuitos/ circuitos abiertos. (2022, 13 enero). Blogger.com. https://aliencircuits.blogspot.com/2016/03/nodos-lazos-ramas-y-corto-circuitos.html
+- Electromagnetismo. (s. f.). Endesa. https://www.fundacionendesa.org/es/educacion/endesa-educa/recursos/que-es-el-electromagnetismo#:%7E:text=El%20magnetismo%20es%20un%20fen%C3%B3meno,presencia%20de%20un%20campo%20magn%C3%A9tico.
+- Purcell, E. M. (1988). Electricidad y magnetismo (Vol. 2). Reverté.
