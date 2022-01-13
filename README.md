@@ -274,4 +274,5 @@ Por lo tanto, el propósito del conmutador y los cepillos es hacer que el voltaj
 
 - En los ejercicios hicimos uso del método de lazos que era parecido al método de mallas y el mismo nos ayudó en la mayor parte de los mismos, hicimos uso de otros métodos como el de ramas que resulta más complicado y extenso debido a que debemos encontrar varias ecuaciones para dar solución al problema. El de nodos y el de mallas podemos decir que son los que nos permite resolver el problema optimizando tiempo, aunque cabe mencionar que va a depender del ejercicio y el método que más nos convenga. 
 
+- Nos deja claro que existe una relación entre el magnetismo y la electricidad debido a que los electrones se mueven dentro del átomo y este se orienta en una dirección produciendo asi el magnetismo.
 # BIBLIOGRAFIA #
