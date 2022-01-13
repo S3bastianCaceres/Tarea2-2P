@@ -4,7 +4,7 @@
 
 **Objetivo General**
 
-Analizar los diferentes metodos para resolver los circuitos electricos y problemas de electromagnetismo e identificar cuando se usaran los diferentes metodos matemáticos para dar solucion al problema. 
+Analizar los diferentes metodos para resolver los circuitos electricos basados en la ley de Ohm y las leyes de Kirchhoff de esta manera proponer metodos utiles para el analisis de circuitos de multiples lazos que tienen dos o más fuentes de voltaje o de corriente y problemas de electromagnetismo reconociendo los conceptos apropiados e identificando cuando se usaran los diferentes metodos matemáticos para dar solucion al problema. 
 
 
 **Objetivos Específicos**
