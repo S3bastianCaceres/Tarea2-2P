@@ -4,6 +4,9 @@
 
 **Objetivo General**
 
+Analizar los diferentes metodos para resolver los circuitos electricos y problemas de electromagnetismo e identificar cuando se usaran los diferentes metodos matemáticos para dar solucion al problema. 
+
+
 **Objetivos Específicos**
 
 - Analizar los métodos que existen para resolver ecuaciones 
