@@ -1,4 +1,4 @@
-# Tarea2-2P
+# Tarea 2 - Capitulos 9-10
  
 # OBJETIVOS # 
 
