@@ -272,6 +272,6 @@ Por lo tanto, el propósito del conmutador y los cepillos es hacer que el voltaj
 
 - Gracias a la aplicación de determinantes para la resolución del sistema de ecuaciones nos permite tener mayor conocimiento para aplicarlo en los diferentes ejercicios, aunque si resulta un poco más extenso que resolver por un método más conocido como podría ser el de sustitución, igualación o por suma y resta.
 
-- En los ejercicios hicimos uso del método de lazos que era parecido al método de mallas y el mismo nos ayudó en la mayor parte de los ejercicios, hicimos uso de otros métodos como el de ramas que resulta más complicado y extenso debido a que debemos encontrar varias ecuaciones para dar solución al problema. El de nodos y el de mallas podemos decir que son los que nos permite resolver el problema optimizando tiempo, aunque cabe mencionar que va a depender del ejercicio y el método que más nos convenga. 
+- En los ejercicios hicimos uso del método de lazos que era parecido al método de mallas y el mismo nos ayudó en la mayor parte de los mismos, hicimos uso de otros métodos como el de ramas que resulta más complicado y extenso debido a que debemos encontrar varias ecuaciones para dar solución al problema. El de nodos y el de mallas podemos decir que son los que nos permite resolver el problema optimizando tiempo, aunque cabe mencionar que va a depender del ejercicio y el método que más nos convenga. 
 
 # BIBLIOGRAFIA #
